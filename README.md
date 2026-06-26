@@ -24,6 +24,12 @@ Classification of breast cancer molecular subtypes (Basal, HER2, Luminal A, Lumi
 - 94.6% ± 3.1% accuracy (5-fold stratified cross-validation)
 - SHAP-based model explainability and KEGG/GO pathway enrichment analysis
 
+### 🔬 [Breast Cancer Survival Biomarker Validation](https://github.com/Zohaib-Bioinfo/breast-cancer-survival-biomarkers)
+Independent prognostic validation of ML-derived biomarkers in the METABRIC cohort (n=1,608) using multivariate Cox regression and survival analysis.
+- CDCA5 (HR=1.144, p=0.023) and CMC2 (HR=0.919, p=0.049) independently prognostic beyond PAM50 subtype
+- +0.022 concordance index improvement over clinical-only model
+- Kaplan-Meier survival analysis, forest plot, and C-index comparison across 10-year follow-up
+ 
 ### 🧬 [Protein Structure Prediction](https://github.com/Zohaib-Bioinfo/Protein-Structure-Prediction)
 AlphaFold2 structure prediction for human insulin (UniProt P01308) using the ColabFold notebook.
 - pLDDT, PAE, and MSA coverage confidence analysis
