@@ -1,50 +1,137 @@
 # Muhammad Zohaib 🧬
 
-**Bioinformatics Student | Computational Biology & AI Enthusiast**
+**Bioinformatics Student | Computational Biology Researcher | AI for Precision Medicine**
 
-Final-year BSc Bioinformatics student at the University of Agriculture Faisalabad (UAF), applying artificial intelligence, machine learning, and computational biology to biological and healthcare problems.
+BS Bioinformatics student at the University of Agriculture Faisalabad (UAF), working at the intersection of **machine learning, transcriptomics, and computational biology** to solve biomedical problems.
 
-## Research Interests
+My current research focuses on **AI-driven biomarker discovery, cancer genomics, survival analysis, and precision oncology**.
 
-- Bioinformatics | Computational Biology | AI & Machine Learning
-- Genomics & Sequence Analysis | Protein Structure Prediction
-- Biomedical Data Science | Healthcare Analytics
+---
 
-## Technical Skills
+## 🔬 Research Interests
 
-**Programming:** Python, NumPy, Pandas, Matplotlib, Biopython
-**AI/ML:** Scikit-learn, XGBoost, TensorFlow, Keras, Streamlit
-**Bioinformatics:** BLAST, NCBI, UniProt, GEO, AlphaFold/ColabFold, PyMOL, RasMol
+- Cancer Genomics & Transcriptomics
+- Machine Learning for Biomedical Data
+- Prognostic Biomarker Discovery
+- Survival Analysis & Clinical Data Science
+- Structural Bioinformatics & Drug Repurposing
+- AI Applications in Precision Medicine
 
-## Featured Projects
+---
 
-### 🧬 [Breast Cancer Molecular Subtype Classification](https://github.com/Zohaib-Bioinfo/breast-cancer-subtype-classification)
-Classification of breast cancer molecular subtypes (Basal, HER2, Luminal A, Luminal B) from GSE45827 microarray expression data.
-- Feature selection via mutual information, XGBoost classifier
-- 94.6% ± 3.1% accuracy (5-fold stratified cross-validation)
-- SHAP-based model explainability and KEGG/GO pathway enrichment analysis
+## 🛠️ Technical Skills
 
-### 🔬 [Breast Cancer Survival Biomarker Validation](https://github.com/Zohaib-Bioinfo/breast-cancer-survival-biomarkers)
-Independent prognostic validation of ML-derived biomarkers in the METABRIC cohort (n=1,608) using multivariate Cox regression and survival analysis.
-- CDCA5 (HR=1.144, p=0.023) and CMC2 (HR=0.919, p=0.049) independently prognostic beyond PAM50 subtype
-- +0.022 concordance index improvement over clinical-only model
-- Kaplan-Meier survival analysis, forest plot, and C-index comparison across 10-year follow-up
- 
-### 🧬 [Protein Structure Prediction](https://github.com/Zohaib-Bioinfo/Protein-Structure-Prediction)
-AlphaFold2 structure prediction for human insulin (UniProt P01308) using the ColabFold notebook.
-- pLDDT, PAE, and MSA coverage confidence analysis
-- Structural interpretation against insulin's known disulfide-linked architecture
+**Programming:**  
+Python • R • Bash • SQL
 
-## Current Goals
+**Machine Learning & AI:**  
+Scikit-learn • XGBoost • TensorFlow • PyTorch • SHAP
 
-- Build advanced AI-powered bioinformatics projects
-- Strengthen ML and computational biology expertise
-- Pursue an international Master's in Bioinformatics, AI, or Computational Biology
-- Contribute to open-source scientific projects
+**Bioinformatics:**  
+Biopython • BLAST • NCBI • UniProt • GEO • AlphaFold/ColabFold • PyMOL • RasMol
 
-## Contact
+**Data Analysis:**  
+Pandas • NumPy • Matplotlib • Statistical Modeling
 
-📧 [zohaib.bioinfo@gmail.com](mailto:zohaib.bioinfo@gmail.com)
-💻 [github.com/Zohaib-Bioinfo](https://github.com/Zohaib-Bioinfo)
+---
 
-*Exploring the intersection of biology, data science, and artificial intelligence.*
+# 🧬 Featured Research Projects
+
+
+## 🧬 Breast Cancer Survival Biomarker Validation
+
+🔗 [Repository](https://github.com/Zohaib-Bioinfo/breast-cancer-survival-biomarkers)
+
+Machine learning-derived prognostic biomarker validation in the **METABRIC breast cancer cohort (n=1,608)**.
+
+The study investigates whether ML-nominated biomarkers provide prognostic information beyond established PAM50 molecular subtypes.
+
+**Methods:**
+- Multivariate Cox proportional hazards regression
+- Kaplan-Meier survival analysis
+- Clinical covariate adjustment
+- Prognostic model comparison
+- Biomarker validation
+
+**Key findings:**
+- CDCA5 and CMC2 demonstrated independent prognostic value beyond PAM50 subtype
+- Improved prognostic performance compared with clinical-only models
+
+*(Manuscript prepared for journal submission)*
+
+
+---
+
+## 🧬 Breast Cancer Molecular Subtype Classification
+
+🔗 [Repository](https://github.com/Zohaib-Bioinfo/breast-cancer-subtype-classification)
+
+Machine learning pipeline for molecular classification of breast cancer subtypes using gene expression data from **GSE45827 microarray dataset**.
+
+**Classification:**
+- Basal
+- HER2
+- Luminal A
+- Luminal B
+
+**Methods:**
+- Transcriptomic preprocessing
+- Feature selection
+- XGBoost classification
+- Cross-validation
+- SHAP explainability
+- GO/KEGG pathway enrichment
+
+
+---
+
+## 🧬 Protein Structure Prediction
+
+🔗 [Repository](https://github.com/Zohaib-Bioinfo/Protein-Structure-Prediction)
+
+Computational protein structure analysis using AlphaFold2/ColabFold.
+
+**Features:**
+- Structure prediction
+- pLDDT confidence analysis
+- PAE interpretation
+- Structural visualization using PyMOL
+
+
+---
+
+# 🚀 Current Research Direction
+
+Currently exploring:
+
+- Structural bioinformatics
+- Network pharmacology
+- Protein-ligand interaction analysis
+- AI-assisted drug discovery
+
+
+---
+
+# 🎯 Long-Term Goals
+
+- Develop reproducible computational biology pipelines
+- Apply AI for biomedical discovery
+- Pursue graduate research opportunities in Bioinformatics, Computational Biology, and AI
+
+
+---
+
+# 📫 Contact
+
+📧 zohaib.bioinfo@gmail.com
+
+💻 GitHub:
+https://github.com/Zohaib-Bioinfo
+
+🔗 LinkedIn:
+https://linkedin.com/in/zohaib-bioinfo
+
+
+---
+
+*"Building computational approaches to understand biology through data, algorithms, and AI."*
