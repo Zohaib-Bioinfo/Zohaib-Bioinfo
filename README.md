@@ -37,14 +37,11 @@ Pandas • NumPy • Matplotlib • Statistical Modeling
 
 # 🧬 Featured Research Projects
 
-
-## 🧬 Breast Cancer Survival Biomarker Validation
-
-🔗 [Repository](https://github.com/Zohaib-Bioinfo/breast-cancer-survival-biomarkers)
+## 🧬 [Breast Cancer Survival Biomarker Validation](https://github.com/Zohaib-Bioinfo/breast-cancer-survival-biomarkers)
 
 Machine learning-derived prognostic biomarker validation in the **METABRIC breast cancer cohort (n=1,608)**.
 
-The study investigates whether ML-nominated biomarkers provide prognostic information beyond established PAM50 molecular subtypes.
+This project evaluates whether ML-nominated biomarkers provide prognostic information beyond established PAM50 molecular subtypes.
 
 **Methods:**
 - Multivariate Cox proportional hazards regression
@@ -62,11 +59,9 @@ The study investigates whether ML-nominated biomarkers provide prognostic inform
 
 ---
 
-## 🧬 Breast Cancer Molecular Subtype Classification
+## 🧬 [Breast Cancer Molecular Subtype Classification](https://github.com/Zohaib-Bioinfo/breast-cancer-subtype-classification)
 
-🔗 [Repository](https://github.com/Zohaib-Bioinfo/breast-cancer-subtype-classification)
-
-Machine learning pipeline for molecular classification of breast cancer subtypes using gene expression data from **GSE45827 microarray dataset**.
+Machine learning pipeline for molecular classification of breast cancer subtypes using **GSE45827 microarray gene expression data**.
 
 **Classification:**
 - Basal
@@ -78,25 +73,23 @@ Machine learning pipeline for molecular classification of breast cancer subtypes
 - Transcriptomic preprocessing
 - Feature selection
 - XGBoost classification
-- Cross-validation
-- SHAP explainability
+- Stratified cross-validation
+- SHAP-based explainability
 - GO/KEGG pathway enrichment
 
 
 ---
 
-## 🧬 Protein Structure Prediction
+## 🧬 [Protein Structure Prediction](https://github.com/Zohaib-Bioinfo/Protein-Structure-Prediction)
 
-🔗 [Repository](https://github.com/Zohaib-Bioinfo/Protein-Structure-Prediction)
-
-Computational protein structure analysis using AlphaFold2/ColabFold.
+Computational protein structure prediction and analysis using AlphaFold2/ColabFold.
 
 **Features:**
-- Structure prediction
+- Protein structure prediction
 - pLDDT confidence analysis
 - PAE interpretation
 - Structural visualization using PyMOL
-
+ 
 
 ---
 
