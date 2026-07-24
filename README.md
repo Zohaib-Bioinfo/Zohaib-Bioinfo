@@ -76,6 +76,7 @@ Machine learning pipeline for molecular classification of breast cancer subtypes
 - Stratified cross-validation
 - SHAP-based explainability
 - GO/KEGG pathway enrichment
+- Reactome (41 significant pathways, FDR<0.05)
 
 
 ---
